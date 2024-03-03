@@ -1,0 +1,2 @@
+# gittraining
+Studying Git Thoroughly
